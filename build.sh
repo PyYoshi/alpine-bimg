@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export VERSION=1.7.1-8.4.1
+export VERSION=1.8.0-8.4.5
 
 # docker images -q | xargs docker rmi -f
 

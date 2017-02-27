@@ -3,8 +3,8 @@ alpine-bimg
 
 # Version
 
-- go 1.7.1
-- libvips 8.4.1
+- go 1.8.0
+- libvips 8.4.5
 
 # Support image format
 
